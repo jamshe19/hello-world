@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hey! I am a novice programmer and developer and also a high school student.
